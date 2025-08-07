@@ -8,7 +8,7 @@ I’m passionate about strategy, digital transformation, and applying analytics 
 
 🔬 Featured Projects
 
-🎮 Esports Earnings Inequality Research
+### 🎮 [Esports Earnings Inequality Research](https://github.com/kk5739/esports-earning-inequality-research)
 
 Collected, cleaned, and analyzed data on 45,371 professional esports players across 10 titles. Built an R-based pipeline to investigate income inequality in pro gaming, inspired by McLeod et al. (2021).
 
