@@ -1,12 +1,39 @@
-- 👋 Hi, I’m @kk5739
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👋 Hi, I'm Kyeongmo Kang
 
-<!---
-kk5739/kk5739 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub!
+
+Graduate student in Data Science at NYU with a background in the sports, entertainment, and hospitality industry. My work focuses on turning data into actionable insights — blending technical expertise with a client-first mindset.
+
+I’m passionate about strategy, digital transformation, and applying analytics to solve high-impact business challenges. Currently exploring opportunities in New York. Always open to connecting!
+
+🔬 Featured Projects
+
+🎮 Esports Earnings Inequality Research
+
+Collected, cleaned, and analyzed data on 45,371 professional esports players across 10 titles. Built an R-based pipeline to investigate income inequality in pro gaming, inspired by McLeod et al. (2021).
+
+🎟️ Season Ticket Renewal Behavior Study
+
+Developed a model to predict season ticket holder renewal behavior using ticketing, donation, and merchandise data. Found that non-resident STHs spent and donated more than resident STHs.
+
+🧰 Tools & Languages
+
+Languages: R, Python, SQL
+
+Tools: Git, Spark, Excel, Salesforce
+
+Skills: Data Wrangling, Modeling, Visualization, Statistical Analysis
+
+🌐 Connect with Me
+
+LinkedIn: linkedin.com/in/kkang5739
+
+Email: kk5739@nyu.edu
+
+🎯 Fun Facts
+
+I served in the army for about two years.
+
+I love working out, long-distance running, watching baseball, and finding great places to eat.
+
+Thanks for checking out my work!
