@@ -12,7 +12,7 @@ I’m passionate about strategy, digital transformation, and applying analytics 
 
 Collected, cleaned, and analyzed data on 45,371 professional esports players across 10 titles. Built an R-based pipeline to investigate income inequality in pro gaming, inspired by McLeod et al. (2021).
 
-🎟️ Season Ticket Renewal Behavior Study
+### 🎟️ [Season Ticket Renewal Behavior Study](https://github.com/kk5739/season-ticket-holder-renewal-behavior-research)
 
 Developed a model to predict season ticket holder renewal behavior using ticketing, donation, and merchandise data. Found that non-resident STHs spent and donated more than resident STHs.
 
@@ -26,7 +26,7 @@ Skills: Data Wrangling, Modeling, Visualization, Statistical Analysis
 
 🌐 Connect with Me
 
-LinkedIn: linkedin.com/in/kkang5739
+- LinkedIn: [linkedin.com/in/kkang5739](https://www.linkedin.com/in/kkang5739/)
 
 Email: kk5739@nyu.edu
 
