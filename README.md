@@ -1,4 +1,4 @@
-👋 Hi, I'm Kyeongmo Kang
+👋 Hi, I'm Momo
 
 Welcome to my GitHub!
 
