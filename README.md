@@ -18,17 +18,17 @@ Developed a model to predict season ticket holder renewal behavior using ticketi
 
 🧰 Tools & Languages
 
-Languages: R, Python, SQL
+- Languages: R, Python, SQL
 
-Tools: Git, Spark, Excel, Salesforce
+- Tools: Git, Spark, Excel, Salesforce
 
-Skills: Data Wrangling, Modeling, Visualization, Statistical Analysis
+- Skills: Data Wrangling, Modeling, Visualization, Statistical Analysis
 
 🌐 Connect with Me
 
 - LinkedIn: [linkedin.com/in/kkang5739](https://www.linkedin.com/in/kkang5739/)
 
-Email: kk5739@nyu.edu
+- Email: kk5739@nyu.edu
 
 🎯 Fun Facts
 
